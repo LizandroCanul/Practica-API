@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: linear-gradient(to bottom, rgb(2, 56, 92), rgb(14, 108, 170));
+}
+.contenedorDatos{
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 400px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-left: 380px;
+    margin-top: 70px;
+    background-color: rgb(34, 148, 255);
+    box-shadow: -8px 8px 1px white;
+    background: linear-gradient(to bottom, #00c3ff, #beefff, #006c8d);
+
+}
+.country{
+    margin-right: 190px;
+}
+label{
+    margin-right: 15px;
+    color: rgb(3, 99, 138);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    cursor: pointer;
+    background-image: linear-gradient(to bottom, #0075e2, #01303f);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+select{
+    margin-right: 130px;
+    cursor: pointer;
+}
+h1{
+    color: #00c3ff;
+    text-align: center;
+    padding-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
